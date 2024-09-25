@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Karlitos"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-25 09:25:45 "/>
+        <attribute name="created" value="S2FybGl0b3M7REVTS1RPUC1CN0VPQkw4OzIwMjQtMDktMjU7IjA5OjIyOjUyICI7MzA5MA=="/>
+        <attribute name="edited" value="S2FybGl0b3M7REVTS1RPUC1CN0VPQkw4OzIwMjQtMDktMjU7IjA5OjI1OjQ1ICI7MjszMjA0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Il programma valuta se la somma di due numeri &#232; maggiore o minore di un numero dato.&#13;&#10;Se &#232; maggiore visualizzer&#224; il messaggio &quot;WOW&quot;&#13;&#10;Se &#232; minore il messaggio &quot;OH NO!&quot;"/>
+        </body>
+    </function>
+</flowgorithm>
