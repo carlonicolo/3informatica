@@ -16,6 +16,9 @@ int main()
         printf("Hello World \n");
     } */
 
+    int numero1 = 5;
+    int numero2 = 6;
+
     for (int j = 0; j < 10; ++j)
     {
         printf("WOW - ");
@@ -23,8 +26,10 @@ int main()
         printf("\n");
     }
 
+    // printf("%d", j);
+
     printf("\n");
-    for (int x = 10; x > 0 ; x--)
+    for (int x = 10; x > 0; x--)
     {
         printf("WOW - ");
         printf("%d", x);
@@ -33,4 +38,3 @@ int main()
 
     return 0;
 }
-
